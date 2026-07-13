@@ -14,9 +14,9 @@
 I'm a **Lead Data Analyst** who lives at the intersection of business intelligence and hands-on engineering. I turn messy operational data into pipelines, dashboards, and models that teams use to make real decisions.
 
 - 🔭 &nbsp;Working on contact-center & operations analytics at scale
-- 🧊 &nbsp;Deep in the **Snowflake + SQL** ecosystem — CTEs, window functions, gnarly joins
+- 🧊 &nbsp;Deep in the **Snowflake + SQL** ecosystem - CTEs, window functions, gnarly joins
 - 📊 &nbsp;Building interactive dashboards in **Tableau**, **Looker Studio**, and **ThoughtSpot**
-- 🐍 &nbsp;Leveling up in **Python** for data science — pandas, Plotly, scikit-learn
+- 🐍 &nbsp;Leveling up in **Python** for data science using pandas, Plotly, scikit-learn
 - 🎯 &nbsp;Lean Six Sigma Green Belt · Google & IBM Data Analytics certified
 - 📍 &nbsp;Based in Cebu City, Philippines · open to remote / international work
 
@@ -74,6 +74,7 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 - 🧮 Scorecard & incentive systems built on Snowflake data models
 - 🤖 Sentiment analysis correlating AI-prompt data with support KPIs
 - 🎮 Browser-based team games and internal React tooling
+- Global Productivity Calculator
 
 > 💡 *Tip: pin your best 4–6 repos so they show right below this README.*
 
@@ -82,9 +83,8 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/YOUR_TABLEAU_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jim-paul-punay-514ba9177/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punayjimpaul@gmail.com)
 
 </div>
 
