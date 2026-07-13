@@ -88,7 +88,7 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 - Browser-based team games and internal React tooling
 - Global Productivity Calculator
 
-> 💡 *Tip: pin your best 4–6 repos so they show right below this README.*
+<!-- > 💡 *Tip: pin your best 4–6 repos so they show right below this README.*
 
 <!-- ============ CONNECT ============ -->
 ## Connect
