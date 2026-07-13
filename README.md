@@ -9,19 +9,19 @@
 </div>
 
 <!-- ============ ABOUT ============ -->
-## 👋 About Me
+## About Me
 
 I'm a **Lead Data Analyst** who lives at the intersection of business intelligence and hands-on engineering. I turn messy operational data into pipelines, dashboards, and models that teams use to make real decisions.
 
 - 🔭 &nbsp;Working on contact-center & operations analytics at scale
-- 🧊 &nbsp;Deep in the **Snowflake + SQL** ecosystem - CTEs, window functions, gnarly joins
+- 🧊 &nbsp;Deep in the **Snowflake + SQL** ecosystem - CTEs, window functions, complex joins
 - 📊 &nbsp;Building interactive dashboards in **Tableau**, **Looker Studio**, and **ThoughtSpot**
 - 🐍 &nbsp;Leveling up in **Python** for data science using pandas, Plotly, scikit-learn
 - 🎯 &nbsp;Lean Six Sigma Green Belt · Google & IBM Data Analytics certified
 - 📍 &nbsp;Based in Cebu City, Philippines · open to remote / international work
 
 <!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -58,12 +58,12 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- ============ GITHUB STATS ============ -->
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPunay093&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPunay093&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JPunay093&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JPunay093&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -80,18 +80,18 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 </div>
 
 <!-- ============ FEATURED WORK ============ -->
-## 🚀 Featured Work
+## Featured Work
 
-- 📊 Enterprise Dashboards
-- 🧮 Scorecard & incentive systems built on Snowflake data models
-- 🤖 Sentiment analysis correlating AI-prompt data with support KPIs
-- 🎮 Browser-based team games and internal React tooling
+- Enterprise Dashboards
+- Scorecard & incentive systems built on Snowflake data models
+- Sentiment analysis correlating AI-prompt data with support KPIs
+- Browser-based team games and internal React tooling
 - Global Productivity Calculator
 
 > 💡 *Tip: pin your best 4–6 repos so they show right below this README.*
 
 <!-- ============ CONNECT ============ -->
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
