@@ -23,26 +23,38 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 <!-- ============ TECH STACK ============ -->
 ## 🛠️ Tech Stack
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 **Data & Warehousing**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Machine Learning & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Visualization & BI**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Mode](https://img.shields.io/badge/Mode-7B2FBE?style=for-the-badge&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![ThoughtSpot](https://img.shields.io/badge/ThoughtSpot-2770EF?style=for-the-badge&logoColor=white)
 
 **Web & Tooling**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- ============ GITHUB STATS ============ -->
@@ -70,7 +82,7 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 <!-- ============ FEATURED WORK ============ -->
 ## 🚀 Featured Work
 
-- 📊 **[Tableau Public Portfolio](https://public.tableau.com/app/profile/YOUR_TABLEAU_USERNAME)** — interactive dashboards including an Amazon Prime viewing analysis
+- 📊 Enterprise Dashboards
 - 🧮 Scorecard & incentive systems built on Snowflake data models
 - 🤖 Sentiment analysis correlating AI-prompt data with support KPIs
 - 🎮 Browser-based team games and internal React tooling
@@ -83,7 +95,7 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jim-paul-punay-514ba9177/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-paul-punay-514ba9177/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punayjimpaul@gmail.com)
 
 </div>
