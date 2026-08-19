@@ -60,16 +60,11 @@ I'm a **Lead Data Analyst** who lives at the intersection of business intelligen
 <!-- ============ GITHUB STATS ============ -->
 ## GitHub Stats
 
-
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=JPunay093&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JPunay093&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-
-</div>
 
 <!-- ============ FEATURED WORK ============ -->
 ## Featured Work
